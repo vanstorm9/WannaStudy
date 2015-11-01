@@ -1,0 +1,214 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:200,300,400,600,700');
+
+/*
+Icons by John Caserta from The Noun Project
+http://thenounproject.com/johncaserta/
+*/
+
+html{
+     background: url(http://nsa33.casimages.com/img/2014/03/28/14032804155474970.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+	
+}
+body{
+ font-family:'Open Sans',arial,sans-serif;
+}
+
+
+#container{
+   position: absolute;
+   top: 50%;
+   margin-top: -250px;/* half of #content height*/
+   left: 0;
+   width: 100%;
+}
+#content {
+   width: 900px;
+   margin-left: auto;
+   margin-right: auto;
+   height: 500px;
+}
+
+
+.English11 {
+	background: url('img/english.png')no-repeat;
+	background-position:center; 
+	background-size: 110px 130px;
+	background-color:#44c767;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:100px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	font-weight:bold;
+	font-style:italic;
+	padding:92px 91px;
+	text-decoration:none;
+	text-shadow:0px 1px 50px #2f6627;
+	}
+	
+.English11:hover {
+		background-color:#5cbf2a;
+	}
+	
+.English11:active {
+	position:relative;
+	top:1px;
+	}
+	
+.History13 {
+	background: url('img/history.png') no-repeat;
+	background-position:center; 
+	background-size: 130px 130px;
+	background-color:#44c767;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:100px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	font-weight:bold;
+	font-style:italic;
+	padding:92px 91px;
+	text-decoration:none;
+	text-shadow:0px 1px 50px #2f6627;
+	}
+	
+.History13:hover {
+	background-color:#5cbf2a;
+	}
+	
+.History13:active {
+		position:relative;
+	top:1px;
+	}
+	
+.math12 {
+	background: url('img/math.png')no-repeat;
+	background-position:center; 
+	background-size: 130px 130px;
+	background-color:#44c767;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:100px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	font-weight:bold;
+	font-style:italic;
+	padding:92px 91px;
+	text-decoration:none;
+	text-shadow:0px 1px 50px #2f6627;
+	}
+	
+.math12:hover {
+		background-color:#5cbf2a;
+	}
+	
+.math12:active {
+		position:relative;
+	top:1px;
+	}
+	
+.science14 {
+	background: url('img/science.png')no-repeat;
+	background-position:center; 
+	background-size: 130px 130px;
+	background-color:#44c767;
+	-moz-border-radius:45px;
+	-webkit-border-radius:45px;
+	border-radius:100px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	font-weight:bold;
+	font-style:italic;
+	padding:92px 91px;
+	text-decoration:none;
+	text-shadow:0px 1px 50px #2f6627;
+	}
+	
+.science14:hover {
+		background-color:#5cbf2a;
+	}
+	
+.science14:active {
+		position:relative;
+	top:1px;
+	}
+	
+.World_Language15 {
+	background: url('img/world.png') no-repeat;
+	background-position:center; 
+	background-size: 130px 130px;
+	background-color:#44c767;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:100px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	font-weight:bold;
+	font-style:italic;
+	padding:92px 91px;
+	text-decoration:none;
+	text-shadow:0px 1px 50px #2f6627;
+	}
+	
+.World_Language15:hover {
+	background-color:#5cbf2a;
+	}
+	
+.World_Language15:active {
+	position:relative;
+	top:1px;
+	}
+	
+.elective112 {
+	background: url('img/elective.png') no-repeat;
+	background-position:center; 
+	background-size: 150px 150px;
+	background-color:#44c767;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:100px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	font-weight:bold;
+	font-style:italic;
+	padding:92px 91px;
+	text-decoration:none;
+	text-shadow:0px 1px 50px #2f6627;
+	}
+	
+.elective112:hover {
+	background-color:#5cbf2a;	
+	}
+	
+.elective112:active {
+	position:relative;
+	top:1px;	
+	}

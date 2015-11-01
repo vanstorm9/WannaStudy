@@ -1,2 +1,2 @@
 # WannaStudy
-An attempt to make an academic forum
+An old attempt to make an academic forum.
